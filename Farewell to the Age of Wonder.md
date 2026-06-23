@@ -2,7 +2,6 @@
 
 
 I remember the night I first encountered wonder. It began not with awe, but with resistance. One must be quite startled out of comfort before imagination can take hold.
-
 I was six, perhaps seven, when my parents decided I was ready for Return of the Jedi. I was tucked between them in bed, the television humming in the dark, the laughter of Jabba’s creatures drifting through the room. I can still see myself saying, ‘I don’t like this film. There are too many monsters’.
 My parents laughed, not at me, but at the seriousness with which I rejected the unknown. I didn’t realise then how long that moment would stay with me. It was the beginning of everything: my first step into the age of wonder. Not through understanding, but through a small act of resistance, a gesture that softened into curiosity when no one reached for the remote. And no one did.
 I met wonder again years later, though it had changed its shape.
