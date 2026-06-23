@@ -1,2 +1,16 @@
-# the-soliloquy-den
-Essays on gaming culture, learning, AI, technology, and human experience.
+# The Soliloquy Den
+
+A repository of essays on gaming culture, learning, artificial intelligence, technology, and human experience.
+
+---
+
+## Essays
+
+### Farewell to the Age of Wonder
+Reflections on optimization, creativity, mystery, and modern gaming culture.
+
+---
+
+## About
+
+I write essays exploring gaming culture, AI, technology, learning, and human experience.
