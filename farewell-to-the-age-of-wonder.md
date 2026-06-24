@@ -30,7 +30,7 @@ In erasing friction, we have managed to make wonder obsolete.
 What Is Wonder?
 
 Although wonder is difficult to define, we might think of it, in cognitive terms, as occupying the space between surprise and curiosity, between knowing and not knowing.
-The brain, always eager to predict and categorize, meets something it cannot yet explain. Neuroscientists refer to this mismatch as a "prediction error", a gentle one that doesn't alarm the mind but invites it
+The brain, always eager to predict and categorize, meets something it cannot yet explain. Neuroscientists refer to this mismatch as a "prediction error", a gentle one that doesn't alarm the mind but invites it.
 Wonder lingers in that interval where understanding has not fully arrived and imagination still has room to wander.
 During wonder, perception outpaces explanation. The mind delays closure and lets meaning form slowly. Once understanding settles, the circuit closes and wonder fades.
 But in that brief interval, before certainty takes hold, we occupy a liminal space where uncertainty becomes luminous rather than threatening.
