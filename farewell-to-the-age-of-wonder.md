@@ -27,10 +27,10 @@ Modernity does not realise it is extinguishing the unknown; it believes it is pe
 In erasing friction, we have managed to make wonder obsolete.
 
 
-What Wonder Is
+What Is Wonder?
 
-Yet what is wonder, in truth?
-In cognitive terms, it sits between surprise and curiosity, between knowing and not knowing. The brain, always eager to predict and categorise, meets something it cannot yet explain. Neuroscientists call this a “prediction error”, a gentle one that doesn’t alarm the mind, but invites it.
+Although wonder is difficult to define, we might think of it, in cognitive terms, as occupying the space between surprise and curiosity, between knowing and not knowing.
+The brain, always eager to predict and categorise, meets something it cannot yet explain. Neuroscientists call this a “prediction error”, a gentle one that doesn’t alarm the mind, but invites it.
 Wonder holds us in that interval where understanding has not fully arrived and imagination still has room to wander.
 During wonder, thought and perception pull in opposite directions. The mind delays closure and lets meaning form slowly. Once understanding settles, the circuit closes and wonder fades.
 But in that brief interval, before certainty takes hold, we occupy a liminal space where uncertainty becomes luminous rather than threatening.
