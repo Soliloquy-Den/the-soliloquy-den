@@ -14,6 +14,8 @@ Then came a fireball.
 It wasn’t me, I swear.
 But that moment, that shared breath before everything collapsed, was pure wonder.
 
+    
+
 Wonder and Novelty
 
 Wonder has little to do with novelty. It belongs to the unknown. It needs friction, and perhaps even imperfection. Above all, it needs a world that has not yet realised it is being optimised.
@@ -22,6 +24,7 @@ The modern age has taught us to chase the new and fear the unknowable, confusing
 The tragedy is that it happens unnoticed.
 Modernity does not realise it is extinguishing the unknown; it believes it is perfecting it. And occasionally, perhaps, it does. But if we are honest, we now live in worlds, digital and real, that no longer have shadows, only reflections.
 In erasing friction, we have managed to make wonder obsolete.
+
 
 What Wonder Is
 
@@ -32,6 +35,8 @@ During wonder, thought and perception pull in opposite directions. The mind dela
 But in that brief interval, before certainty takes hold, we occupy a liminal space where uncertainty becomes luminous rather than threatening.
 Socrates understood this long before neuroscience gave it a vocabulary. His claim to “know that he knew nothing” was not modesty but method, a discipline of staying within that fertile gap between ignorance and understanding.
 To wonder, in the Socratic sense, is not to surrender knowledge but to hold the question open long enough for imagination to have its say.
+
+
 
 Ingenuity and Optimisation
 
@@ -50,6 +55,8 @@ The same game, stripped of its safety nets, remembers how to be alive.
 We have come to treat design, in games and in life, as the removal of effort. Every step shortened, every delay erased. We cross vast distances without travelling at all. We consume worlds without ever inhabiting them.
 Optimisation grants access, yet steals the sense of arrival.
 
+
+
 The Necessity of Risk
 
 The disappearance of risk is the final triumph of optimisation.
@@ -59,6 +66,8 @@ Yet that pressure, that constant improvisation, gave the film its heartbeat.
 Ingenuity begins when necessity outpaces certainty.
 Today risk is treated as inefficiency. Corporations call it volatility, designers call it friction. Yet without risk there is no discovery, only iteration.
 Star Wars was not optimised but impossible, and that impossibility made it necessary.
+
+
 
 The Return of Wonder
 
