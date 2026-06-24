@@ -45,7 +45,7 @@ Modern design would call this inefficiency.
 Optimisation insists that time spent travelling is time wasted. And in one sense, it is right. But when every second is optimised, nothing breathes.
 The world grows smaller, not larger.
 Worlds are not measured only by size but also expand through effort rather than extension.
-Hardcore mode shows this clearly. A single primitive rule — death is permanent — restores a sense of magnitude. Suddenly every corner matters, and every shadow hides a possibility.
+Hardcore mode shows this clearly. A single primitive rule, death is permanent, restores a sense of magnitude. Suddenly every corner matters, and every shadow hides a possibility.
 The same game, stripped of its safety nets, remembers how to be alive.
 We have come to treat design, in games and in life, as the removal of effort. Every step shortened, every delay erased. We cross vast distances without travelling at all. We consume worlds without ever inhabiting them.
 Optimisation grants access, yet steals the sense of arrival.
