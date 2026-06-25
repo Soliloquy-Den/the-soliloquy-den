@@ -9,15 +9,15 @@ And no one did.</p>
 <p>I met wonder again years later, though it had changed its shape.</p>
 <p>I was twenty-four, and World of Warcraft had been out only a few months. I played a gnome mage, and I remember an afternoon outside Tarren Mill: Horde on one side, Alliance on the other, dozens of us waiting in silence. Spells ready, weapons drawn, nobody moving. You could feel the tension humming through the screen. We all knew the first move would unleash chaos.
 For a few seconds, no one dared break the spell. Then came a fireball. It wasn’t me, I swear. But that moment, that shared breath before everything collapsed, was pure wonder.</p>    
-<p>Wonder has little to do with novelty. It belongs to the unknown. It needs friction, and perhaps even imperfection. Above all, it needs a world that has not yet realized it is being optimized.</p>  
+<p>It has little to do with novelty. It belongs to the unknown. It needs friction, and perhaps even imperfection. Above all, it needs a world that has not yet realized it is being optimized.</p>  
 <p>We often mistake wonder for novelty, yet novelty is only the surface shimmer of the new. It fades the moment we understand it. Wonder, by contrast, survives understanding. It lives in whatever resists completion.
 <p>The modern age has taught us to chase the new and fear the unknowable, confusing discovery with progress and optimization with mastery. Yet every act of optimization, every algorithmic refinement, every design built to smooth the edges of experience, quietly erases a little mystery.</p> 
 The tragedy is that it happens unnoticed. Modernity does not realize it is extinguishing the unknown; it believes it is perfecting it. And occasionally, perhaps, it does. But if we are honest, we now live in worlds, digital and real, that no longer have shadows, only reflections.
 In erasing friction, we have managed to make wonder obsolete.</p> 
-<p>Although wonder is difficult to define, we might think of it, in cognitive terms, as occupying the space between surprise and curiosity, between knowing and not knowing.</p>
+<p>Although difficult to define, we might think of this experience, in cognitive terms, as occupying the space between surprise and curiosity, between knowing and not knowing.</p>
 <p>The brain, always eager to predict and categorize, meets something it cannot yet explain. Neuroscientists refer to this mismatch as a "prediction error", a gentle one that doesn't alarm the mind but invites it.</p>
 <p>Wonder lingers in that interval where understanding has not fully arrived and imagination still has room to wander.</p>
-<p>During wonder, perception outpaces explanation. The mind delays closure and lets meaning form slowly. Once understanding settles, the circuit closes and wonder fades.</p>
+<p>During this state, perception outpaces explanation. The mind delays closure and lets meaning form slowly. Once understanding settles, the circuit closes and wonder fades.</p>
 <p>But in that brief interval, before certainty takes hold, we occupy a liminal space where uncertainty becomes luminous rather than threatening.</p>
 <p>Socrates understood this long before neuroscience gave it a vocabulary. His claim to “know that he knew nothing” was not modesty but method, a discipline of staying within that fertile gap between ignorance and understanding.</p>
 <p>To wonder, in the Socratic sense, is not to surrender knowledge but to hold the question open long enough for imagination to have its say.</p>
