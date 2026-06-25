@@ -25,7 +25,7 @@ In erasing friction, we have managed to make wonder obsolete.</p>
 <p>You could feel the difference in something as simple as movement. In early World of Warcraft, travel was slow, painfully so by today’s standards. Mounts were a luxury, flight paths wandered, and even crossing a single zone felt like a pilgrimage.
 <p>Yet that slowness gave the world its weight. The map was not a menu but terrain. One didn’t move through data but, rather, travelled through distance. The pause between desire and arrival gave imagination space to stretch.</p>
 <p>Modern design would call this inefficiency. By that logic, time spent travelling is time wasted. And in one sense, it is right. But when every second is optimized, nothing breathes.
-The world grows smaller, not larger. Worlds are not measured only by size but also expand through effort rather than extension.</p>
+The world grows smaller, not larger. A world's magnitude depends not only on its size but on the effort it demands.</p>
 <p>Hardcore mode shows this clearly. A single primitive rule, death is permanent, restores a sense of magnitude. Suddenly every corner matters, and every shadow hides a possibility.
 The same game, stripped of its safety nets, remembers how to be alive.</p>
 <p>We have come to treat design, in games and in life, as the removal of effort. Every step shortened, every delay erased. We cross vast distances without travelling at all. We consume worlds without ever inhabiting them. Optimization grants access, yet steals the sense of arrival.</p>
