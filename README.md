@@ -10,7 +10,7 @@ A repository of essays on gaming culture, learning, artificial intelligence, tec
 
 Reflections on wonder, optimization, and risk.
 
-### [The Republic of Unfinished Worlds](the-republic-of-unfinished-wprlds.md)
+### [The Republic of Unfinished Worlds](the-republic-of-unfinished-worlds.md)
 
 Reflections on building without permission. 
 
