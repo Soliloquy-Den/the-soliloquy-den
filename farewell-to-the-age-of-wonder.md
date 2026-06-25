@@ -24,17 +24,17 @@ In erasing friction, we have managed to make wonder obsolete.</p>
 <p>Ingenuity has never been about doing more with more, but about achieving more with less. It thrives on friction, on the tension between intention and limitation. Optimization, meanwhile, dreams of erasing the gap altogether. Where ingenuity builds the bridge, optimization smooths it flat.</p>
 <p>You could feel the difference in something as simple as movement. In early World of Warcraft, travel was slow, painfully so by today’s standards. Mounts were a luxury, flight paths wandered, and even crossing a single zone felt like a pilgrimage.
 <p>Yet that slowness gave the world its weight. The map was not a menu but terrain. One didn’t move through data but, rather, travelled through distance. The pause between desire and arrival gave imagination space to stretch.</p>
-Modern design would call this inefficiency. Optimization insists that time spent travelling is time wasted. And in one sense, it is right. But when every second is optimized, nothing breathes.
+<p>Modern design would call this inefficiency. By that logic, time spent travelling is time wasted. And in one sense, it is right. But when every second is optimized, nothing breathes.
 The world grows smaller, not larger. Worlds are not measured only by size but also expand through effort rather than extension.</p>
 <p>Hardcore mode shows this clearly. A single primitive rule, death is permanent, restores a sense of magnitude. Suddenly every corner matters, and every shadow hides a possibility.
 The same game, stripped of its safety nets, remembers how to be alive.</p>
 <p>We have come to treat design, in games and in life, as the removal of effort. Every step shortened, every delay erased. We cross vast distances without travelling at all. We consume worlds without ever inhabiting them. Optimization grants access, yet steals the sense of arrival.</p>
-<p>The disappearance of risk is the final triumph of optimization.
+<p>The disappearance of risk is its final triumph
 When every outcome can be predicted, every failure undone, ingenuity has nowhere left to live. Risk is the pressure-cooker of creation; without it, imagination loses its urgency.</p>
 <p>Take the first Star Wars: a gamble bordering on absurdity. A space opera shot on malfunctioning cameras, funded despite the studio’s scepticism. Lucas himself nearly collapsed under the strain. The actors thought the dialogue preposterous, the entire production a shambles.
 Yet that pressure, that constant improvisation, gave the film its heartbeat.
 Ingenuity begins when necessity outpaces certainty.</p> 
-<p>Today risk is treated as inefficiency. Corporations call it volatility, designers call it friction. Yet without risk there is no discovery, only iteration.
+<p>Today risk is treated as inefficiency. Corporations call it volatility, designers call it friction. Yet without it there is no discovery, only iteration.
 Star Wars was not optimized but impossible, and that impossibility made it necessary.</p>    
 <p>Wonder fades when the world fits too well and returns the moment we notice it doesn’t.
 It lives in the space between what we know and what we dare to attempt.
@@ -46,3 +46,4 @@ In an era so devoted to efficiency, what could be more efficient than restraint?
 It is in our nature to seek the rough edge of meaning.</p> 
 <p>And if we return to the age of wonder, it will not be through clarity, but through the willingness to live with what remains obscure.
 Wonder grows where certainty thins; it waits in the half-lit places we have yet to try to tame.</p> 
+   
