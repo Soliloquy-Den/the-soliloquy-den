@@ -3,7 +3,7 @@ by Denis Thomas
 
 <p>Imagine a world treated with the same quiet dedication modders bring to broken games. A world examined with the same precision of someone opening xEdit in the middle of the night, driven by the same persistence that once sent Archimedes hunting for eurekas, simply to understand why a quest refuses to trigger. A place where problems are not political battlegrounds but unresolved scripts, waiting to be debugged. A world where the small irritations we accept as normal would be handled patiently, without applause, long after the official developers have moved on. A world where the emotional architecture of life, with all its odd frictions, would receive the same care given to rebalancing a perk tree or restoring missing dialogue.</p>
 
-<p>Of course, when the thing that needs fixing is what we like to call "creation," the task becomes more tangled. But the thought lingers all the same. Is there a way to mod the world we've been given, or God's creation, if you prefer?</p>
+<p>Of course, when the thing that needs fixing is the society we've created, the task becomes more tangled. But the thought lingers all the same. Is there a way to mod it?</p>
 
 <p>In gaming, modders have a particular way of seeing. They hear the click in a broken loop. They feel when an encounter has been tuned too sharply or too softly. Perhaps it is because they were gamers first, shaped by so many playthroughs that they now look for meaning beyond the next DLC. Or perhaps it is simply that they sense, instinctively, when something could be better. Above all, they do not expect a finished world. They prefer a world that never is.</p>
 
