@@ -1,4 +1,3 @@
-Markets and Communities
 <p>The Republic of Unfinished Worlds</p>
 
 by Denis Thomas
