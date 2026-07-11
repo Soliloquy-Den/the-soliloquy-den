@@ -1,4 +1,6 @@
+Markets and Communities
 The Republic of Unfinished Worlds
+
 by Denis Thomas
 
 <p>Imagine a world treated with the same quiet dedication modders bring to broken games. A world examined with the same precision of someone opening xEdit in the middle of the night, driven by the same persistence that once sent Archimedes hunting for eurekas, simply to understand why a quest refuses to trigger. A place where problems are not political battlegrounds but unresolved scripts, waiting to be debugged. A world where the small irritations we accept as normal would be handled patiently, without applause, long after the official developers have moved on. A world where the emotional architecture of life, with all its odd frictions, would receive the same care given to rebalancing a perk tree or restoring missing dialogue.</p>
@@ -29,7 +31,7 @@ by Denis Thomas
 
 <p>Yet the products themselves are only part of the story. Another transformation has quietly reshaped the industry. As development costs have climbed into the hundreds of millions, studios are increasingly replacing permanent teams with networks of independent contractors and outsourced specialists. Expertise is no longer cultivated under one roof but purchased when needed and discarded when the contract ends. Flexibility has become the new virtue, yet something less measurable seems to vanish with it: lineage.</p>
 
-<p>Gaming is hardly unique in this respect. Similar labour models are emerging across technology, from software development to AI training, where highly skilled workers increasingly contribute as independent contractors rather than members of enduring teams. The pattern repeats itself so consistently that it begins to look less like an industrial adjustment than a new philosophy of work.</p>
+<p>Similar labour models are emerging across technology, from software development to AI training, where highly skilled workers increasingly contribute as independent contractors rather than members of enduring teams. The pattern repeats itself so consistently that it begins to look less like an industrial adjustment than a new philosophy of work.</p>
 
 <p>The consequences extend beyond the labour market. When expertise is treated as something to be rented rather than cultivated, continuity begins to erode. Contractors come and go. Teams are assembled and dissolved. Practical knowledge leaves with the people who acquired it. Each new project begins with talented people, yet without the accumulated memory that turns competence into craftsmanship. The paradox is that a system designed to maximise flexibility may gradually lose the very continuity on which complex creative work depends. </p>
 
