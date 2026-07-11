@@ -1,4 +1,4 @@
-<p>The Republic of Unfinished Worlds</p>
+<p>Keepers of Unfinished Worlds</p>
 
 by Denis Thomas
 
@@ -41,6 +41,6 @@ Knowledge stops belonging to individuals and gradually becomes part of the commu
 Markets negotiate because they expect the transaction to end. That difference, I suspect, determines not only how knowledge is created, but whether it endures.</p>
 
 <p>I've come to believe that modding isn't an escape from reality at all. It's a rehearsal for a different way of living in it. A way that understands creation not as a finished act, but as an ongoing conversation between those who came before and those who follow after. 
-A way that values stewardship as much as invention, and sees every improvement not as a final answer, but as something left for others to refine. Perhaps that's what makes these communities feel, at times, like small republics of unfinished worlds: places where knowledge survives the people who first created it, where each contribution becomes part of a lineage rather than an isolated achievement, and where the quiet satisfaction lies not simply in making things work, but in leaving them more repairable than they were before. </p>
+A way that values stewardship as much as invention, and sees every improvement not as a final answer, but as something left for others to refine. Perhaps that's what makes these communities feel like places where knowledge survives the people who first created it, where each contribution becomes part of a lineage rather than an isolated achievement, and where the quiet satisfaction lies not simply in making things work, but in leaving them more repairable than they were before. </p>
 
 <p> And perhaps that is the point we've forgotten outside those spaces. Long before optimisation became an ideal, continuity was often a by-product of necessity. Skills endured because they had to. Modernity has given us extraordinary freedom to move, specialise, and reorganise, but in doing so it has also made memory easier to fragment. We should be careful not to mistake this for progress alone. A civilisation that excels at producing but forgets how to preserve may discover, too late, that memory was never the enemy of innovation but its precondition. Every enduring world, digital or otherwise, remains unfinished because each generation inherits not only problems to solve, but knowledge to preserve.</p>
