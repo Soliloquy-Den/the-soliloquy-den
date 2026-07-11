@@ -2,37 +2,28 @@
 
 by Denis Thomas
 
-<p>Imagine a world treated with the quiet dedication modders bring to broken games. A world examined with the patience of someone opening xEdit in the middle of the night, driven by the same persistence that once sent Archimedes hunting for eurekas, simply to understand why a quest refuses to trigger. A place where problems are not political battlegrounds but unresolved scripts, waiting to be debugged. A world where the small irritations we accept as normal would be handled without applause, long after the official developers have moved on. A world where the emotional architecture of life, with all its odd frictions, would receive the same care given to rebalancing a perk tree or restoring missing dialogue.</p>
+<p>Imagine a world treated with the quiet dedication modders bring to broken games. A world examined with the patience of someone opening xEdit in the middle of the night, driven by the same persistence that once sent Archimedes hunting for eurekas, simply to understand why a quest refuses to trigger. 
+A place where problems are not political battlegrounds but unresolved scripts, waiting to be debugged. A world where the small irritations we accept as normal would be handled without applause, long after the official developers have moved on. 
+A world where the emotional architecture of life, with all its odd frictions, would receive the same care given to rebalancing a perk tree or restoring missing dialogue.</p>
 
-<p>Of course, when the thing that needs fixing is the society we've created, the task becomes more tangled. But the thought lingers all the same. Is there a way to mod it?</p>
+<p>In gaming, modders have a particular way of seeing. They hear the click in a broken loop. They feel when an encounter has been tuned too sharply or too softly. Perhaps it is because they were gamers first, shaped by so many playthroughs that they now look for meaning beyond the next DLC. 
+Or perhaps it is simply that they sense, instinctively, when something could be better. Above all, they do not expect a finished world. They prefer a world that never is.</p>
 
-<p>In gaming, modders have a particular way of seeing. They hear the click in a broken loop. They feel when an encounter has been tuned too sharply or too softly. Perhaps it is because they were gamers first, shaped by so many playthroughs that they now look for meaning beyond the next DLC. Or perhaps it is simply that they sense, instinctively, when something could be better. Above all, they do not expect a finished world. They prefer a world that never is.</p>
+<p>Perhaps what has always fascinated me isn't that modders fix games, but that they keep returning to them. They inherit abandoned worlds as though they were worth preserving. They pass knowledge from one another, argue over better solutions, refine what already exists, and quietly continue the work long after the original creators have moved on.</p>
 
-<p>Now imagine applying that sensibility to reality itself.</p>
+<p>Why?</p>
 
-<p>Not to escape it, but to improve it.</p>
+<p>To try to answer that question, we need to consider why the world we inhabit feels so unpatched. I reckon there’s a contradiction at the heart of modernity: we live in the age of degrees and specialization, and yet also of disservices, a time when qualifications multiply even as the simplest public systems struggle to function. 
+It is also the age of enormous, lavishly funded creations that somehow feel hollow. Modern AAA games, built by legions of specialists, often arrive to a flurry of negative reviews. Their vast machinery can fail to produce the coherence that a single modder achieves in solitude.</p>
 
-<p>Not to replace it, but to treat it as what it has always been: an unfinished build.</p>
+<p>Yet the products themselves are only part of the story. Another transformation has quietly reshaped the industry. As development costs have climbed into the hundreds of millions, studios are increasingly replacing permanent teams with networks of independent contractors and outsourced specialists. 
+Expertise is no longer cultivated under one roof but purchased when needed and discarded when the contract ends. Flexibility has become the new virtue, yet something less measurable seems to vanish with it: lineage.</p>
 
-<p>And then the question arrives, quietly but inevitably:</p>
+<p>Similar labour models are emerging across technology, from software development to AI training, where highly skilled workers increasingly contribute as independent contractors rather than members of enduring teams. 
+The pattern repeats itself so consistently that it begins to look less like an industrial adjustment than a new philosophy of work.</p>
 
-<p>Is such a thing possible?</p>
-
-<p>Can the everyday world be modded?</p>
-
-<p>Can a society behave like the worlds modders have saved and rebuilt for decades?</p>
-
-<p>Is it possible to make the republic of unfinished worlds real?</p>
-
-<p>Call it idealistic if you like, but there's a lesson in this perspective I'm convinced we shouldn't ignore.</p>
-
-<p>To try to answer that question, we need to consider why the world we inhabit feels so unpatched. I reckon there’s a contradiction at the heart of modernity: we live in the age of degrees and specialization, and yet also of disservices, a time when qualifications multiply even as the simplest public systems struggle to function. It is also the age of enormous, lavishly funded creations that somehow feel hollow. Modern AAA games, built by legions of specialists, often arrive to a flurry of negative reviews. Their vast machinery can fail to produce the coherence that a single modder achieves in solitude.</p>
-
-<p>Yet the products themselves are only part of the story. Another transformation has quietly reshaped the industry. As development costs have climbed into the hundreds of millions, studios are increasingly replacing permanent teams with networks of independent contractors and outsourced specialists. Expertise is no longer cultivated under one roof but purchased when needed and discarded when the contract ends. Flexibility has become the new virtue, yet something less measurable seems to vanish with it: lineage.</p>
-
-<p>Similar labour models are emerging across technology, from software development to AI training, where highly skilled workers increasingly contribute as independent contractors rather than members of enduring teams. The pattern repeats itself so consistently that it begins to look less like an industrial adjustment than a new philosophy of work.</p>
-
-<p>The consequences extend beyond the labour market. When expertise is treated as something to be rented rather than cultivated, continuity begins to erode. Contractors come and go. Teams are assembled and dissolved. Practical knowledge leaves with the people who acquired it. Each new project begins with talented people, yet without the accumulated memory that turns competence into craftsmanship. The paradox is that a system designed to maximise flexibility may gradually lose the very continuity on which complex creative work depends. </p>
+<p>The consequences extend beyond the labour market. When expertise is treated as something to be rented rather than cultivated, continuity begins to erode. Contractors come and go. Teams are assembled and dissolved. Practical knowledge leaves with the people who acquired it. 
+Each new project begins with talented people, yet without the accumulated memory that turns competence into craftsmanship. The paradox is that a system designed to maximise flexibility may gradually lose the very continuity on which complex creative work depends. </p>
 
 <p>Taken together, these changes reveal two very different ways of organising human ability. One treats expertise as something to acquire, trade, and redeploy. The other treats it as something that grows inside a community.</p>
 
@@ -40,13 +31,16 @@ by Denis Thomas
 
 <p>Markets are remarkably efficient at organising production. Communities are remarkably good at preserving craft.</p>
 
-<p>In a market, expertise is something to be bought, sold, outsourced, or contracted for as long as it remains useful. In a community, expertise accumulates. It is passed from one person to another, refined through conversation, criticism, and countless small acts of generosity. One optimises transactions; the other cultivates memory.</p>
+<p>In a market, expertise is something to be bought, sold, outsourced, or contracted for as long as it remains useful. In a community, expertise accumulates. It is passed from one person to another, refined through conversation, criticism, and countless small acts of generosity. 
+One optimises transactions; the other cultivates memory.</p>
 
-<p>Communities don't merely produce things; they preserve the craft required to produce them again. Every mod carries traces of forum discussions, bug reports, or even abandoned project stretching back years. All becomes part of a shared memory that future contributors inherit. Knowledge stops belonging to individuals and gradually becomes part of the community itself. </p>
+<p>Communities don't merely produce things; they preserve the craft required to produce them again. Every mod carries traces of forum discussions, bug reports, or even abandoned project stretching back years. All becomes part of a shared memory that future contributors inherit. 
+Knowledge stops belonging to individuals and gradually becomes part of the community itself. </p>
 
-<p>It's true that modding scenes are not always gentle. They have their tempers, their frictions, their strange hierarchies. But even that, oddly enough, feels more alive than the polished silence of institutional spaces. Communities argue because they expect to meet again. Markets negotiate because they expect the transaction to end. That difference, I suspect, determines not only how knowledge is created, but whether it endures.</p>
+<p>It's true that modding scenes are not always gentle. They have their tempers, their frictions, their strange hierarchies. But even that, oddly enough, feels more alive than the polished silence of institutional spaces. Communities argue because they expect to meet again. 
+Markets negotiate because they expect the transaction to end. That difference, I suspect, determines not only how knowledge is created, but whether it endures.</p>
 
-<p>I've come to believe that modding isn't an escape from reality at all. It's a rehearsal for a different way of living in it. A way that understands creation not as a finished act, but as an ongoing conversation between those who came before and those who follow after. A way that values stewardship as much as invention, and sees every improvement not as a final answer, but as something left for others to refine. Perhaps that's what makes these communities feel, at times, like small republics of unfinished worlds: places where knowledge survives the people who first created it, where each contribution becomes part of a lineage rather than an isolated achievement, and where the quiet satisfaction lies not simply in making things work, but in leaving them more repairable than they were before. </p>
+<p>I've come to believe that modding isn't an escape from reality at all. It's a rehearsal for a different way of living in it. A way that understands creation not as a finished act, but as an ongoing conversation between those who came before and those who follow after. 
+A way that values stewardship as much as invention, and sees every improvement not as a final answer, but as something left for others to refine. Perhaps that's what makes these communities feel, at times, like small republics of unfinished worlds: places where knowledge survives the people who first created it, where each contribution becomes part of a lineage rather than an isolated achievement, and where the quiet satisfaction lies not simply in making things work, but in leaving them more repairable than they were before. </p>
 
-<p>And perhaps that is the point we've forgotten outside those spaces. Long before optimisation became an ideal, continuity was often a by-product of necessity. Skills endured because they had to. Modernity has given us extraordinary freedom to move, specialise, and reorganise, but in doing so it has also made memory easier to fragment. We should be careful not to mistake this for progress alone. A civilisation that excels at producing but forgets how to preserve may discover, too late, that memory was never the enemy of innovation but its precondition. Every enduring world, digital or otherwise, remains unfinished because each generation inherits not only problems to solve, but knowledge to preserve.</p> 
-    
+<p> And perhaps that is the point we've forgotten outside those spaces. Long before optimisation became an ideal, continuity was often a by-product of necessity. Skills endured because they had to. Modernity has given us extraordinary freedom to move, specialise, and reorganise, but in doing so it has also made memory easier to fragment. We should be careful not to mistake this for progress alone. A civilisation that excels at producing but forgets how to preserve may discover, too late, that memory was never the enemy of innovation but its precondition. Every enduring world, digital or otherwise, remains unfinished because each generation inherits not only problems to solve, but knowledge to preserve.</p>
