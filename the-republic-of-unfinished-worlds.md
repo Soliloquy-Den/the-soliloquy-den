@@ -9,7 +9,7 @@ A world where the emotional architecture of life, with all its odd frictions, wo
 <p>In gaming, modders have a particular way of seeing. They hear the click in a broken loop. They feel when an encounter has been tuned too sharply or too softly. Perhaps it is because they were gamers first, shaped by so many playthroughs that they now look for meaning beyond the next DLC. 
 Or perhaps it is simply that they sense, instinctively, when something could be better. Above all, they do not expect a finished world. They prefer a world that never is.</p>
 
-<p>Perhaps what has always fascinated me isn't that modders fix games, but that they keep returning to them. They inherit abandoned worlds as though they were worth preserving. They pass knowledge from one another, argue over better solutions, refine what already exists, and quietly continue the work long after the original creators have moved on.</p>
+<p>Perhaps what has always fascinated me isn't that modders fix games, but that they keep returning to them. They inherit abandoned worlds as though they were worth preserving. They pass knowledge from one another, argue over better solutions, refine what already exists, and continue the work without expecting to be its final authors.</p>
 
 <p>Why?</p>
 
