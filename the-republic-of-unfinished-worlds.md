@@ -1,5 +1,5 @@
 Markets and Communities
-The Republic of Unfinished Worlds
+<p>The Republic of Unfinished Worlds</p>
 
 by Denis Thomas
 
