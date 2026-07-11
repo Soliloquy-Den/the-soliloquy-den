@@ -12,7 +12,7 @@ Reflections on wonder, optimization, and risk.
 
 ### [The Republic of Unfinished Worlds](the-republic-of-unfinished-worlds.md)
 
-Reflections on building without permission. 
+Reflections on memory, craft, and lineage.
 
 ---
 
