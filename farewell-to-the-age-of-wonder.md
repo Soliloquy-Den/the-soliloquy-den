@@ -14,7 +14,8 @@ For a few seconds, no one dared break the spell. Then came a fireball. It wasnâ€
 <p>The modern age has taught us to chase the new and fear the unknowable, confusing discovery with progress and optimization with mastery. Yet every act of optimization, every algorithmic refinement, every design built to smooth the edges of experience, quietly erases a little mystery.</p> 
 The tragedy is that it happens unnoticed. Modernity does not realize it is extinguishing the unknown; it believes it is perfecting it. And occasionally, perhaps, it does. But if we are honest, we now live in worlds, digital and real, that no longer have shadows, only reflections.
 In erasing friction, we have managed to make wonder obsolete.</p> 
-<p>Although difficult to define, we might think of this experience, in cognitive terms, as occupying the space between surprise and curiosity, between knowing and not knowing.</p>
+<p>Dictionaries generally describe wonder as a feeling of surprise, admiration, or astonishment in the face of something strange, mysterious, or new. Useful though these definitions are, they tell us more about what awakens wonder than about what sustains it.</p>
+<p>We might think of this experience, in cognitive terms, as occupying the space between surprise and curiosity, between knowing and not knowing.</p>
 <p>The brain, always eager to predict and categorize, meets something it cannot yet explain. Neuroscientists refer to this mismatch as a "prediction error", a gentle one that doesn't alarm the mind but invites it.</p>
 <p>Wonder lingers in that interval where understanding has not fully arrived and imagination still has room to wander.</p>
 <p>During this state, perception outpaces explanation. The mind delays closure and lets meaning form slowly. Once understanding settles, the circuit closes and wonder fades.</p>
