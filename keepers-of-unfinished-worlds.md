@@ -16,7 +16,7 @@ Or perhaps it is simply that they sense, instinctively, when something could be 
 <p>Perhaps, without quite intending to, to challenge one of modernity's deepest assumptions: that progress lies chiefly in moving on. Modders do the opposite. They return. They treat unfinished work not as something obsolete but as something worthy of another conversation. 
 That instinct seems increasingly rare, and perhaps that is why it deserves closer attention.</p>
     
-<p>We might have to consider why the world we inhabit feels so unpatched. I reckon there’s a contradiction at the heart of modernity: we live in the age of degrees and specialization, and yet also of disservices, a time when qualifications multiply even as the simplest public systems struggle to function. 
+<p>We might have to consider that the world we inhabit feels unpatched. I reckon there’s a contradiction at the heart of modernity: we live in the age of degrees and specialization, and yet also of disservices, a time when qualifications multiply even as the simplest public systems struggle to function. 
 It is also the age of enormous, lavishly funded creations that somehow feel hollow. Modern AAA games, built by legions of specialists, often arrive to a flurry of negative reviews. Their vast machinery can fail to produce the coherence that a single modder achieves in solitude.</p>
 
 <p>Yet the products themselves are only part of the story. Another transformation has quietly reshaped the industry. As development costs have climbed into the hundreds of millions, studios are increasingly replacing permanent teams with networks of independent contractors and outsourced specialists. 
