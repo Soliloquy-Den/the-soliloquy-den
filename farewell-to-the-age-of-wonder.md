@@ -61,4 +61,3 @@ The map was not a menu but terrain. One didn’t move through data but, rather, 
 <p>Wonder hides not in distance but in the cracks. When the world becomes seamless, we tear at it ourselves, hungry for imperfection. It is in our nature to seek the rough edge of meaning.</p> 
 
 <p>And if we return to the age of wonder, it will not be through clarity, but through the willingness to live with what remains obscure. Wonder grows where certainty thins; it waits in the half-lit places we have yet to try to tame.</p> 
-   
