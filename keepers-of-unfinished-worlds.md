@@ -38,7 +38,7 @@ Each new project begins with talented people, yet without the accumulated memory
 
 <p>You see that second model most clearly in modding, that unregulated corner of the digital world where competence requires no certificate and mastery no diploma. But over time I came to realise that the deeper contrast is not between institutions and hobbyists, but rather between communities and markets. </p>
 
-<p>Markets are remarkably efficient at organising production, whereas Communities are remarkably good at preserving craft.</p>
+<p>Markets are remarkably efficient at organising production, whereas communities are remarkably good at preserving craft.</p>
 
 <p>In a market, expertise is something to be bought, sold, outsourced, or contracted for as long as it remains useful. In a community, expertise accumulates, where it is passed from one person to another, refined through conversation, criticism, and countless small acts of generosity. </p>
 
