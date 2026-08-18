@@ -25,13 +25,10 @@ You could feel the tension humming through the screen. We all knew the first mov
 
 <p>We might think of this experience, in cognitive terms, as occupying the space between surprise and curiosity, between knowing and not knowing.</p>
 
-<p>The brain, always eager to predict and categorize, meets something it cannot yet explain. Neuroscientists refer to this mismatch as a "prediction error", a gentle one that doesn't alarm the mind but invites it.</p>
+<p>The brain, constantly forming expectations about the world, sometimes encounters something that does not quite fit them, producing what neuroscientists call a “prediction error”. 
+Such mismatches can provoke curiosity and the search for information, but perhaps wonder belongs to something less easily resolved: the interval in which explanation has not yet caught up with perception and imagination still has room to wander. </p>
 
-<p>Wonder lingers in that interval where understanding has not fully arrived and imagination still has room to wander.</p>
-
-<p>During this state, perception outpaces explanation. The mind delays closure and lets meaning form slowly, and once understanding settles, the circuit closes and wonder fades.</p>
-
-<p>But in that brief interval, before certainty takes hold, we occupy a liminal space where uncertainty becomes luminous rather than threatening.</p>
+<p>Wonder does not require us to resist understanding, but to delay its closure. Meaning is allowed to form slowly, while uncertainty remains luminous rather than threatening; once the unfamiliar has been absorbed into what we already know, some of that wonder may inevitably fade.</p>
 
 <p>Socrates understood this long before neuroscience gave it a vocabulary. His claim to “know that he knew nothing” was not modesty but method, a discipline of staying within that fertile gap between ignorance and understanding.</p>
 
@@ -50,7 +47,7 @@ The map was not a menu but terrain. One didn’t move through data but, rather, 
 
 <p>The disappearance of risk is its final triumph: when every outcome can be predicted and every failure undone, ingenuity has nowhere left to live. Risk is the pressure-cooker of creation; without it, imagination loses its urgency.</p>
 
-<p>Take the first Star Wars: a gamble bordering on absurdity, a project few seemed certain would work. The actors thought the dialogue preposterous, while Lucas himself nearly collapsed under the strain of a troubled production. Yet that pressure, that constant improvisation, gave the film its heartbeat. Ingenuity begins when necessity outpaces certainty. </p> 
+<p>Take the first Star Wars: a gamble bordering on absurdity, a project few seemed certain would work. Some of the actors thought the dialogue preposterous, while Lucas himself nearly collapsed under the strain of a troubled production. Yet that pressure, that constant need to improvise, gave the film its heartbeat. Ingenuity begins when necessity outpaces certainty. </p> 
 
 <p>Today risk is treated as inefficiency. Corporations call it volatility, designers call it friction, yet without it there is no discovery, only iteration. Star Wars was not optimized but “impossible”, and that impossibility made it necessary.</p>    
 
@@ -61,3 +58,4 @@ The map was not a menu but terrain. One didn’t move through data but, rather, 
 <p>Wonder hides not in distance but in the cracks. When the world becomes seamless, we tear at it ourselves, hungry for imperfection. It is in our nature to seek the rough edge of meaning.</p> 
 
 <p>And if we return to the age of wonder, it will not be through clarity, but through the willingness to live with what remains obscure. Wonder grows where certainty thins; it waits in the half-lit places we have yet to try to tame.</p> 
+
