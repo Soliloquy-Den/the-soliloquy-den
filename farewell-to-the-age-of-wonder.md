@@ -17,7 +17,7 @@ You could feel the tension humming through the screen. We all knew the first mov
 
 <p>We often mistake wonder for novelty, yet novelty is only the surface shimmer of the new, fading the moment we understand it. Wonder, by contrast, survives understanding, lingering in whatever resists completion.</p>   
 
-<p>The modern age has taught us to chase the new and fear the unknowable, confusing discovery with progress and optimization with mastery. Yet every act of optimization, every algorithmic refinement, every design built to smooth the edges of experience, quietly erases a little mystery, and the the tragedy is that it happens unnoticed.</p> 
+<p>The modern age has taught us to chase the new and fear the unknowable, confusing discovery with progress and optimization with mastery. Yet every act of optimization, every algorithmic refinement, every design built to smooth the edges of experience, quietly erases a little mystery, and the tragedy is that it happens unnoticed.</p> 
 
 <p>Modernity does not realize it is extinguishing the unknown; it believes it is perfecting it. And occasionally, perhaps, it does. But if we are honest, we now live in worlds, digital and real, that no longer have shadows, only reflections, and by erasing friction, we have managed to make wonder obsolete.</p> 
 
