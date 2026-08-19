@@ -37,7 +37,7 @@ Each new project begins with talented people, yet without the accumulated memory
 
 <p>Markets are remarkably efficient at organising production, whereas communities are remarkably good at preserving craft.</p>
 
-<p>In a market, expertise is something to be bought, sold, outsourced, or contracted for as long as it remains useful. In a community, expertise accumulates, where it is passed from one person to another, refined through conversation, criticism, and countless small acts of generosity. </p>
+<p>In a market, expertise is something to be bought, sold, outsourced, or contracted for as long as it remains useful. In a community, expertise accumulates as it is passed from one person to another, refined through conversation, criticism, and countless small acts of generosity. </p>
 
 <p>Communities don't merely produce things; they preserve the craft required to produce them again. Every mod carries traces of forum discussions, bug reports, or even abandoned project stretching back years. 
 All becomes part of a shared memory that future contributors inherit, until knowledge gradually ceases to belong to individuals and becomes part of the community itself.  </p>
