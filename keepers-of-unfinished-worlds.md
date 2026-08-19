@@ -29,9 +29,7 @@ At some point, however, development must justify its cost, and a game must becom
 
 <p>The consequences extend beyond the labour market. When expertise is treated as something to be rented rather than cultivated, continuity begins to erode. Contractors come and go, teams are assembled and dissolved, and practical knowledge leaves with the people who acquired it. Talented people may enter each new project without the accumulated memory that turns competence into craftsmanship. The paradox is that a system designed to maximise flexibility may gradually lose the very continuity on which complex creative work depends.</p>
 
-<p>Taken together, these changes reveal two very different ways of organising human ability. One treats expertise as something to acquire, trade, and redeploy; the other treats it as something that grows inside a community.</p>
-
-<p>You see that second model most clearly in modding. On its face, the contrast might seem to be between institutions and hobbyists. On a deeper level, it lies elsewhere: between communities and markets.</p>
+<p>Taken together, these changes reveal two very different ways of organising human ability. One treats expertise as something to acquire, trade, and redeploy; the other treats it as something that grows inside a community.You see that second model most clearly in modding. On its face, the contrast might seem to be between institutions and hobbyists. On a deeper level, it lies elsewhere: between communities and markets.</p>
 
 <p>Markets are remarkably efficient at organising production, whereas communities are remarkably good at preserving craft.</p>
 
