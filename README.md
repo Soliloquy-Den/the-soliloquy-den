@@ -6,9 +6,6 @@ A repository of essays on gaming culture, learning, artificial intelligence, tec
 
 ## Essays
 
-### [Farewell to the Age of Wonder](farewell-to-the-age-of-wonder.md)
-
-Reflections on wonder, optimization, and risk.
 
 ### [Keepers of Unfinished Worlds](keepers-of-unfinished-worlds.md)
 
