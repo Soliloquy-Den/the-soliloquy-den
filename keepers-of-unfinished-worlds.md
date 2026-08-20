@@ -2,7 +2,8 @@
 
 by Denis Thomas
 
-<p>Some video games survive their creators. Development ends, the final updates arrive, and eventually the people who built them move on. Yet the worlds themselves remain inhabited. Years later, sometimes decades later, players are still returning to them, not merely to play, but rather to repair what was left broken, restore what was abandoned, or rethink what never quite worked. Nobody has asked them to do it. Often, nobody is paying them. Nevertheless, they remain. </p>
+<p>Some video games survive their creators. Development ends, the final updates arrive, and eventually the people who built them move on. Yet the worlds themselves remain inhabited. 
+Years later, sometimes decades later, players are still returning to them, not merely to play, but rather to repair what was left broken, restore what was abandoned, or rethink what never quite worked. Nobody has asked them to do it. Often, nobody is paying them. Nevertheless, they remain. </p>
 
 <p>These are modders: players who, through familiarity, curiosity, and sometimes sheer persistence, become custodians of worlds they did not create. They know when something feels wrong because they have lived with it long enough to remember how it ought to feel.  </p>
 
@@ -10,28 +11,33 @@ by Denis Thomas
 
 <p>Why?</p>
 
-<p>Possibly because, after hundreds or thousands of hours, a game's world can begin to feel like somewhere you belong. Modders return to places they know intimately, and to communities built around the same attachment. 
-But there is another, less obvious reason they can return: they are free to. No one employs them to fix a broken quest, restore an abandoned feature, or revisit a game released twenty years ago. Their work is free in the most literal sense, but so is their relationship with it. 
+<p>Possibly because, after hundreds or thousands of hours, a game's world can begin to feel like somewhere you belong. Modders return to places they know intimately, and to communities built around the same attachment. But there is another, less obvious reason they can return: they are free to.
+No one employs them to fix a broken quest, restore an abandoned feature, or revisit a game released twenty years ago. Their work is free in the most literal sense, but so is their relationship with it. 
 They can leave and return when they wish, long after the commercial life of a game has ended. </p>
     
-<p>This freedom does not mean that modders care more about games than the people who make them. Developers, too, may remain deeply attached to what they create, but their involvement is ultimately determined by the needs of production. The distinction is structural: a developer is paid to continue; a modder is free to return. For one, the relationship persists for as long as there is work to be done; for the other, for as long as the world still feels worth revisiting.</p>
+<p>This freedom does not mean that modders care more about games than the people who make them. Developers, too, may remain deeply attached to what they create, but their involvement is ultimately determined by the needs of production. The distinction is structural: a developer is paid to continue; a modder is free to return. 
+For one, the relationship persists for as long as there is work to be done; for the other, for as long as the world still feels worth revisiting.</p>
 
-<p>Perhaps, without quite intending to, modders challenge one of modernity's deepest assumptions: that progress lies chiefly in moving on. They remain attached to worlds whose economic purpose has already been fulfilled, returning to work that no longer needs to be done simply because, to them, it is still worth doing. What makes that instinct interesting is not that it rejects progress, but that it suggests another form of it: one built on return, refinement, and continuity rather than replacement.</p>
+<p>Perhaps, without quite intending to, modders challenge one of modernity's deepest assumptions: that progress lies chiefly in moving on. They remain attached to worlds whose economic purpose has already been fulfilled, returning to work that no longer needs to be done simply because, to them, it is still worth doing. 
+What makes that instinct interesting is not that it rejects progress, but that it suggests another form of it: one built on return, refinement, and continuity rather than replacement.</p>
 
 <p>Modern societies, however, are increasingly organized around movement. Capital and labour move, projects form and dissolve, entire industries reorganize themselves in pursuit of flexibility, responding to the growing complexity and cost of modern production. Remaining in one place, returning to the same work, or preserving what already exists increasingly runs against those incentives.</p>
 
 <p>Modern AAA games illustrate this tension. Built by hundreds or even thousands of specialists and with extraordinary technical ambition, they can still leave a curious sense of incompleteness. Their problem is not always a lack of talent or investment. 
 At some point, however, development must justify its cost, and a game must become a finished product even when the world behind it does not feel entirely finished. A lone modder faces no equivalent deadline: returning to the same world for years, they can sometimes achieve a degree of consistency that vast teams struggle to reproduce under the pressure to deliver.</p>
 
-<p>Yet the products themselves are only part of the story. Another transformation has quietly reshaped the industry. As development costs have climbed into the hundreds of millions, studios are increasingly replacing permanent teams with networks of independent contractors and outsourced specialists. Expertise that might once have remained within a studio can now be purchased when needed and released when the contract ends. Flexibility has become the new virtue, yet something less measurable seems to vanish with it: lineage.</p>
+<p>Yet the products themselves are only part of the story. Another transformation has quietly reshaped the industry. As development costs have climbed into the hundreds of millions, studios are increasingly replacing permanent teams with networks of independent contractors and outsourced specialists. Expertise that might once have remained within a studio can now be purchased when needed and released when the contract ends. 
+Flexibility has become the new virtue, yet something less measurable seems to vanish with it: lineage.</p>
 
 <p>Similar labour models are emerging across technology, from software development to AI training, where highly skilled workers are engaged as independent contractors rather than members of enduring teams. The pattern has become so widespread that it begins to look less like an industrial adjustment than a new philosophy of work.</p>
 
-<p>The consequences extend beyond the labour market. When expertise is treated as something to be rented rather than cultivated, continuity begins to erode. Contractors come and go, teams are assembled and dissolved, and practical knowledge leaves with the people who acquired it. Talented people may enter each new project without the accumulated memory that turns competence into craftsmanship. The paradox is that a system designed to maximise flexibility may gradually lose the very continuity on which complex creative work depends.</p>
+<p>The consequences extend beyond the labour market. When expertise is treated as something to be rented rather than cultivated, continuity begins to erode. Contractors come and go, teams are assembled and dissolved, and practical knowledge leaves with the people who acquired it. Talented people may enter each new project without the accumulated memory that turns competence into craftsmanship. 
+The paradox is that a system designed to maximize flexibility may gradually lose the very continuity on which complex creative work depends.</p>
 
-<p>Taken together, these changes reveal two very different ways of organising human ability. One treats expertise as something to acquire, trade, and redeploy; the other treats it as something that grows inside a community.You see that second model most clearly in modding. On its face, the contrast might seem to be between institutions and hobbyists. On a deeper level, it lies elsewhere: between markets and communities.</p>
+<p>Taken together, these changes reveal two very different ways of organizing human ability. One treats expertise as something to acquire, trade, and redeploy; the other treats it as something that grows inside a community. You see that second model most clearly in modding. 
+On its face, the contrast might seem to be between institutions and hobbyists. On a deeper level, it lies elsewhere: between markets and communities.</p>
 
-<p>Markets are remarkably efficient at organising production, whereas communities are remarkably good at preserving craft.</p>
+<p>Markets are remarkably efficient at organizing production, whereas communities are remarkably good at preserving craft.</p>
 
 <p>In a market, expertise is something to be bought, sold, outsourced, or contracted for as long as it remains useful. In a community, expertise accumulates as it is passed from one person to another, refined through conversation, criticism, and countless small acts of generosity.</p>
 
@@ -39,8 +45,11 @@ At some point, however, development must justify its cost, and a game must becom
 
 <p>It's true that modding scenes are not always gentle. They have their tempers, their frictions, their strange hierarchies. But even that, oddly enough, feels more alive than the polished silence of institutional spaces. Communities argue because they expect to meet again, whereas markets negotiate because they expect the transaction to end. That difference, I suspect, determines not only how knowledge is created, but whether it endures.</p>
 
-<p>The question now is what happens when that transactional logic begins to extend deeper into the organisation of creative work itself.</p>
+<p>The question now is what happens when that transactional logic begins to extend deeper into the organization of creative work itself.</p>
 
-<p>In a contractor-based model, work naturally concludes once the agreed objective has been met. Should this model become dominant, something subtler may change. People could stop building lives around places and begin building them around opportunities; expertise, in turn, would remain mobile rather than rooted. For organisations, mobility means specialist expertise can be brought in when needed and released when the work is done. From the perspective of those whose careers become increasingly fragmented, its benefits are considerably less obvious. What may quietly disappear is the continuity through which craftsmanship matures. The question is whether complex creative work can flourish indefinitely when movement becomes easier than belonging.</p>
+<p>In a contractor-based model, work naturally concludes once the agreed objective has been met. Should this model become dominant, something subtler may change. People could stop building lives around places and begin building them around opportunities; expertise, in turn, would remain mobile rather than rooted. For organizations, mobility means specialist expertise can be brought in when needed and released when the work is done. 
+From the perspective of those whose careers become increasingly fragmented, its benefits are considerably less obvious. What may quietly disappear is the continuity through which craftsmanship matures. The question is whether complex creative work can flourish indefinitely when movement becomes easier than belonging.</p>
 
-<p>And perhaps that is the point we've forgotten outside those spaces. Long before optimisation became an ideal, continuity was often a by-product of necessity. Skills endured because they had to. Modernity has given us extraordinary freedom to move, specialize, and reorganize, but in doing so it has also made memory easier to fragment. We should be careful not to mistake this for progress alone. A civilisation that excels at producing but forgets how to preserve may discover, too late, that memory was never the enemy of innovation but its precondition. Every world, digital or otherwise, remains unfinished because each generation inherits not only problems to solve, but knowledge to preserve. Worlds are rarely defined only by the brilliance of their architects, but also by the devotion of their keepers.</p> 
+<p>And perhaps that is the point we've forgotten outside those spaces. Long before optimization became an ideal, continuity was often a by-product of necessity. Skills endured because they had to. Modernity has given us extraordinary freedom to move, specialize, and reorganize, but in doing so it has also made memory easier to fragment. We should be careful not to mistake this for progress alone. 
+
+<p>A civilization that excels at producing but forgets how to preserve may discover, too late, that memory was never the enemy of innovation but its precondition. Every world, digital or otherwise, remains unfinished because each generation inherits not only problems to solve, but knowledge to preserve. Worlds are rarely defined only by the brilliance of their architects, but also by the devotion of their keepers.</p>
