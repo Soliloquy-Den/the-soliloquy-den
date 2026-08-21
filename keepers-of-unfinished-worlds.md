@@ -13,8 +13,7 @@ by Denis Thomas
 <p>Possibly because, after hundreds or thousands of hours, a game's world can begin to feel like somewhere you belong. These are places they know intimately, surrounded by communities built around the same attachment. But there is another, less obvious reason they can stay: they are free to.
 No one employs them for what they do, their work is free in the most literal sense, but so is their relationship with it. They can leave and return when they wish, long after the commercial life of a game has ended.</p>
     
-<p>This freedom does not mean that modders care more about games than the people who make them. Developers, too, may remain deeply attached to what they create, but their involvement is ultimately determined by the needs of production. The distinction is structural: one is paid to continue; the other is free to return. 
-For one, the relationship persists for as long as there is work to be done; for the other, for as long as the world still feels worth revisiting.</p>
+<p>This freedom does not mean that modders care more about games than the people who make them. Developers, too, may remain deeply attached to what they create, but their involvement is ultimately determined by the needs of production. The distinction is structural: one is paid to continue; the other is free to return.</p>
 
 <p>Perhaps, without quite intending to, modders challenge one of modernity's deepest assumptions: that progress lies chiefly in moving on. They remain attached to worlds whose economic purpose has already been fulfilled, returning to work that no longer needs to be done simply because, to them, it is still worth doing. 
 What makes that instinct interesting is not that it rejects progress, but that it suggests another form of it: one built on return and refinement rather than replacement.</p>
