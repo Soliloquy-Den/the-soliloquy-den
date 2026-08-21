@@ -17,7 +17,7 @@ No one employs them for what they do, their work is free in the most literal sen
 
 <p>Perhaps, without quite intending to, modders challenge one of modernity's deepest assumptions: that progress lies chiefly in moving on. They remain attached to worlds whose economic purpose has already been fulfilled. What makes that instinct interesting is not that it rejects progress, but that it suggests another form of it: one built on return and refinement rather than replacement.</p>
 
-<p>Modern societies, however, are increasingly organised around movement, at an ever faster pace. Capital and labour move, projects form and dissolve, entire industries reorganise themselves in pursuit of flexibility, responding to the growing complexity and cost of modern production. The rhythm of work has accelerated with them. 
+<p>Modern societies, however, are increasingly organized around movement, at an ever faster pace. Capital and labour move, projects form and dissolve, entire industries reorganise themselves in pursuit of flexibility, responding to the growing complexity and cost of modern production. The rhythm of work has accelerated with them. 
 Remaining in one place, or simply allowing something time to mature increasingly runs against those incentives.</p>
 
 <p>Modern AAA games illustrate this tension. Built by hundreds or even thousands of specialists and with extraordinary technical ambition, they can still leave a curious sense of incompleteness. This doesn’t necessarily reflect a lack of talent or investment. 
