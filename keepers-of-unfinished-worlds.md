@@ -2,16 +2,16 @@
 
 by Denis Thomas
 
-<p>Some video games survive their creators. As development ends and the final updates arrive, eventually the people who built them move on. Yet the worlds themselves remain inhabited. Years later, sometimes decades later, players are still returning to them, not merely to play, but rather to restore what was abandoned, or rethink what never quite worked. Nobody has asked them to do it. Often, nobody is paying them. Nevertheless, they remain.  </p>
+<p>Some video games survive their creators. As development ends and the final updates arrive, eventually the people who built them move on. Yet the worlds themselves remain inhabited. Years later, sometimes decades later, players are still there, not merely to play, but rather to restore what was abandoned, or rethink what never quite worked. Nobody has asked them to do it. Often, nobody is paying them. Nevertheless, they remain.  </p>
 
 <p>These people are modders. Players who, through familiarity, curiosity, and sometimes sheer persistence, become custodians of worlds they did not create. They know when something feels wrong because they have lived with it long enough to remember how it ought to feel.  </p>
 
-<p>What has always fascinated me isn't that modders fix games, but that they keep returning to them. They inherit abandoned worlds as though they were worth preserving, argue over better solutions, refine what already exists, and continue the work without expecting to be its final authors.</p>
+<p>What has always fascinated me isn't that modders fix games, but that they keep coming back to them. They inherit abandoned worlds, argue over better solutions, refine what already exists, and continue the work without expecting to be its final authors.</p>
 
 <p>Why?</p>
 
-<p>Possibly because, after hundreds or thousands of hours, a game's world can begin to feel like somewhere you belong. They return to places they know intimately, and to communities built around the same attachment. But there is another, less obvious reason they can return: they are free to.
-No one employs them to fix a broken quest, restore an abandoned feature, or revisit a game released twenty years ago. Their work is free in the most literal sense, but so is their relationship with it. They can leave and return when they wish, long after the commercial life of a game has ended.</p>
+<p>Possibly because, after hundreds or thousands of hours, a game's world can begin to feel like somewhere you belong. These are places they know intimately, surrounded by communities built around the same attachment. But there is another, less obvious reason they can stay: they are free to.
+No one employs them for what they do, their work is free in the most literal sense, but so is their relationship with it. They can leave and return when they wish, long after the commercial life of a game has ended.</p>
     
 <p>This freedom does not mean that modders care more about games than the people who make them. Developers, too, may remain deeply attached to what they create, but their involvement is ultimately determined by the needs of production. The distinction is structural: one is paid to continue; the other is free to return. 
 For one, the relationship persists for as long as there is work to be done; for the other, for as long as the world still feels worth revisiting.</p>
