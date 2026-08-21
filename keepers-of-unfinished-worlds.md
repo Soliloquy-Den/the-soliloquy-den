@@ -17,7 +17,7 @@ No one employs them to fix a broken quest, restore an abandoned feature, or revi
 For one, the relationship persists for as long as there is work to be done; for the other, for as long as the world still feels worth revisiting.</p>
 
 <p>Perhaps, without quite intending to, modders challenge one of modernity's deepest assumptions: that progress lies chiefly in moving on. They remain attached to worlds whose economic purpose has already been fulfilled, returning to work that no longer needs to be done simply because, to them, it is still worth doing. 
-What makes that instinct interesting is not that it rejects progress, but that it suggests another form of it: one built on return, refinement, and continuity rather than replacement.</p>
+What makes that instinct interesting is not that it rejects progress, but that it suggests another form of it: one built on return and refinement rather than replacement.</p>
 
 <p>Modern societies, however, are increasingly organised around movement, at an ever faster pace. Capital and labour move, projects form and dissolve, entire industries reorganise themselves in pursuit of flexibility, responding to the growing complexity and cost of modern production. The rhythm of work has accelerated with them. Remaining in one place, returning to the same work, or simply allowing something time to mature increasingly runs against those incentives.</p>
 
