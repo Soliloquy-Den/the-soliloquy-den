@@ -33,10 +33,9 @@ Flexibility has become the new virtue, yet something less measurable seems to va
 <p>Taken together, these changes reveal two very different ways of organizing human ability. One treats expertise as something to acquire, trade, and redeploy; the other treats it as something that grows inside a community. You see that second model most clearly in modding. 
 On its face, the contrast might seem to be between institutions and hobbyists. On a deeper level, it lies elsewhere: between markets containing communities and markets.</p>
 
-<p>Markets have always been remarkably efficient at organizing production, without necessarily excluding the communities that formed within them. A twentieth-century game studio was obviously operating in a market, and the two weren't mutually exclusive organizational principles. But as work becomes increasingly transactional, these may begin to drift apart. </p>
+<p>Markets have always been remarkably efficient at organizing production, without necessarily excluding the communities that formed within them. A twentieth-century game studio was obviously operating in a market, and the two weren't mutually exclusive organizational principles. But as work becomes increasingly transactional, these may begin to drift apart.</p>
 
-<p>It’s important to stress how communities are remarkably good at preserving craft. Expertise accumulates as it is passed from one person to another, refined through conversation, criticism, and countless small acts of generosity. They don't merely produce things; they preserve the craft required to produce them again. 
-All becomes part of a shared memory that future contributors inherit, until knowledge gradually ceases to belong to individuals and becomes part of the community itself. </p>
+<p>It’s important to stress how communities are remarkably good at preserving craft. They don't merely produce things; they preserve the know-how required to produce them again. All becomes part of a shared memory that future contributors inherit, until knowledge gradually ceases to belong to individuals and becomes part of the community itself.</p> 
 
 <p>The question now is what happens when that transactional logic begins to extend deeper into the organization of creative work itself.</p>
 
