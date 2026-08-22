@@ -28,7 +28,7 @@ Flexibility has become the new virtue, yet something less measurable seems to va
 
 <p>Similar labour models are emerging across the gaming and technology industries, from game development to AI training. The pattern has become so widespread that it begins to look less like an industrial adjustment than a new philosophy of work.</p>
 
-<p>The consequences extend beyond the labour market. Contractors come and go, teams are assembled and dissolved, and practical knowledge may leave with the people who acquired it. Talented people can enter each new project without the accumulated memory that turns competence into craftsmanship.</p>
+<p>The consequences extend beyond the labour market. While contractors come and go, practical knowledge may leave with the people who acquired it. Talented people can enter each new project without the accumulated memory that turns competence into craftsmanship.</p>
 
 <p>Taken together, these changes reveal two very different ways of organizing human ability. One treats expertise as something to acquire, trade, and redeploy; the other treats it as something that grows inside a community. You see that second model most clearly in modding. 
 On its face, the contrast might seem to be between institutions and hobbyists. On a deeper level, it lies elsewhere: between markets containing communities and markets.</p>
