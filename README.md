@@ -7,7 +7,7 @@ A repository of essays on gaming culture, learning, artificial intelligence, tec
 ## Essays
 
 
-### [Keepers of Unfinished Worlds](keepers-of-unfinished-worlds.md)
+### [Architects, Keepers, and Unfinished Worlds](architects-keepers-and-unfinished-worlds.md)
 
 Reflections on memory, craft, and lineage.
 
