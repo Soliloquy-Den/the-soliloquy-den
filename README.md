@@ -7,7 +7,7 @@ A repository of essays on gaming culture, learning, artificial intelligence, tec
 ## Essays
 
 
-### [Architects, Keepers, and Unfinished Worlds](architects-keepers-and-unfinished-worlds.md)
+### [The Memory of Innovation](the-memory-of-innovation.md)
 
 Reflections on memory, craft, and lineage.
 
