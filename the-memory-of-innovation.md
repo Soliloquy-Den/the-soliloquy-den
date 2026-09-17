@@ -31,7 +31,7 @@ Flexibility has become the new virtue, yet something less measurable seems to va
 
 <p>The consequences extend beyond the labour market. Contractors come and go, and practical knowledge might leave with the people who acquired it. Even highly talented workers can move from project to project without the accumulated memory that turns competence into craftsmanship</p>
 
-<p>Taken together, these changes reveal two very different ways of organizing human ability. One treats expertise as something to acquire, trade, and redeploy; the other treats it as something that grows inside a community. You see that second model most clearly in modding. 
+<p>Taken together, these changes reveal two very different ways of organizing human ability: one treats expertise as something to acquire, trade, and redeploy; the other treats it as something that grows inside a community. You see that second model most clearly in modding. 
 On its face, the contrast might seem to be between institutions and hobbyists. On a deeper level, it lies elsewhere: between markets containing communities and markets.</p>
 
 <p>Markets have always been remarkably efficient at organizing production, without necessarily excluding the communities that formed within them. A twentieth-century game studio was obviously operating in a market, and the two weren't mutually exclusive organizational principles. But as work becomes increasingly transactional, these may begin to drift apart. </p>
