@@ -5,7 +5,7 @@ by Denis Thomas
 <p>Some video games survive their creators. As development ends and the final updates arrive, eventually the people who built them move on. Years later, sometimes decades later, players are still inhabiting those worlds, not merely to play, but rather to restore what was abandoned or rethink what never quite worked. 
 Nobody has asked them to do it, and often, nobody is paying them. Nevertheless, they remain. </p>
 
-<p>These people are modders. Players who, through familiarity, curiosity, and sometimes sheer persistence, become custodians of worlds they did not create. Over time, they develop an empathy with those worlds that gets so deep that they can sense what’s out of place, even before they can explain it.</p>
+<p>These people are modders: players who, through familiarity, curiosity, and sometimes sheer persistence, become custodians of worlds they did not create. Over time, they develop an empathy with those worlds that gets so deep that they can sense what’s out of place, even before they can explain it.</p>
 
 <p>What has always fascinated me isn't that modders fix games, but that they keep coming back to them.</p>
 
@@ -16,7 +16,7 @@ No one employs them for what they do, their work is free in the most literal sen
     
 <p>This freedom does not mean they care more about games than the people who make them. Developers, too, may remain deeply attached to what they create, but their involvement is ultimately determined by the needs of production. While one is paid to continue, the other is free to return. </p>
 
-<p>Perhaps, without quite intending to, modders challenge one of modernity's deepest assumptions: that progress lies chiefly in moving on. They remain attached to worlds whose economic purpose has already been fulfilled. What makes that instinct interesting is not that it rejects progress, but that it suggests a form of it built on return and refinement rather than replacement.</p>
+<p>Perhaps, without quite intending to, modders challenge one of modernity's deepest assumptions: that progress lies chiefly in moving on. Their impulse to remain attached to worlds whose economic purpose has already been fulfilled might, rather than reject progress, suggest a form of it built on return and refinement rather than replacement.</p>
 
 <p>Modern societies, however, are increasingly organized around movement, at an ever faster pace. Capital and labour move, projects form and dissolve, entire industries reorganize themselves in pursuit of flexibility, responding to the growing complexity and cost of modern production. The rhythm of work has accelerated with them. 
 Remaining in one place, or simply allowing something time to mature increasingly runs against those incentives.</p>
@@ -29,7 +29,7 @@ Flexibility has become the new virtue, yet something less measurable seems to va
 
 <p>Similar labour models are emerging across the gaming and technology industries, from game development to AI training. The pattern has become so widespread that it begins to look less like an industrial adjustment than a new philosophy of work.</p>
 
-<p>The consequences extend beyond the labour market. Contractors come and go, and practical knowledge might leave with the people who acquired it. Talented people can enter each new project without the accumulated memory that turns competence into craftsmanship.</p>
+<p>The consequences extend beyond the labour market. Contractors come and go, and practical knowledge might leave with the people who acquired it. Even highly talented workers can move from project to project without the accumulated memory that turns competence into craftsmanship</p>
 
 <p>Taken together, these changes reveal two very different ways of organizing human ability. One treats expertise as something to acquire, trade, and redeploy; the other treats it as something that grows inside a community. You see that second model most clearly in modding. 
 On its face, the contrast might seem to be between institutions and hobbyists. On a deeper level, it lies elsewhere: between markets containing communities and markets.</p>
@@ -40,8 +40,8 @@ On its face, the contrast might seem to be between institutions and hobbyists. O
 
 <p>The question now is what happens when that transactional logic begins to extend deeper into the organization of creative work itself.</p>
 
-<p>That's difficult to predict. In a contractor-based model, work naturally concludes once the agreed objective has been met. Should this model become dominant, something subtler may change. People could stop building lives around places and begin building them around opportunities. Expertise, in turn, would remain mobile rather than rooted. For organizations, mobility means specialists can be brought in when needed and released once the tasks are complete. 
-From the perspective of those whose careers become increasingly fragmented, its benefits are considerably less obvious.</p>
+<p>That's difficult to predict. In a contractor-based model, work naturally concludes once the agreed objective has been met. Should this model become dominant, something subtler may change. People could stop building lives around places and begin building them around opportunities, with expertise in turn remaining mobile rather than rooted. For organizations, mobility means specialists can be brought in when needed and released once the tasks are complete; 
+from the perspective of those whose careers become increasingly fragmented, its benefits are considerably less obvious.</p>
 
 <p>And perhaps that is the point we've forgotten outside those spaces. Skills once endured partly as a by-product of necessity, because people and institutions had little choice but to preserve them. While that necessity has not entirely disappeared, it started to increasingly compete with another. As complex production becomes more expensive, the pressure to optimize grows with it. This is not entirely unreasonable. 
 When investors commit hundreds of millions to a project, they expect costs to be controlled and returns to be plausible. Yet the larger the investment, the less tolerance there may be for the very things creative maturation often requires: time, experimentation, failure, and work whose value cannot always be predicted in advance.</p> 
