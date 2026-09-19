@@ -5,7 +5,7 @@ by Denis Thomas
 <p>Some video games survive their creators. As development ends and the final updates arrive, eventually the people who built them move on. Years later, sometimes decades later, players are still inhabiting those worlds, not merely to play, but rather to restore what was abandoned or rethink what never quite worked. 
 Nobody has asked them to do it, and often, nobody is paying them. Nevertheless, they remain. </p>
 
-<p>These people are modders: players who, through familiarity, curiosity, and sometimes sheer persistence, become custodians of worlds they did not create. Over time, they develop an empathy with those worlds that gets so deep that they can sense what’s out of place, even before they can explain it.</p>
+<p>These people are modders: players who, through familiarity, curiosity, and sometimes sheer persistence, become custodians of worlds they did not create. Over time, they develop an empathy with those worlds that gets so deep they can sense what’s out of place, even before they can explain it.</p>
 
 <p>What has always fascinated me isn't that modders fix games, but that they keep coming back to them.</p>
 
