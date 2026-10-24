@@ -5,7 +5,7 @@ by Denis Thomas
 <p>Some video games survive their creators. As development ends and the final updates arrive, eventually the people who built them move on. Years later, sometimes decades later, players are still inhabiting those worlds, not merely to play, but rather to restore what was abandoned or rethink what never quite worked. 
 Nobody has asked them to do it, and often, nobody is paying them. Nevertheless, they remain. </p>
 
-<p>These people are modders: players who, through familiarity, curiosity, and sometimes sheer persistence, become custodians of worlds they did not create. Over time, they develop an empathy with those worlds that gets so deep they can sense what’s out of place, even before they can explain it.</p>
+<p>They're called modders: players who, through curiosity and sheer persistence, become custodians of worlds they did not create. Over time, they develop an empathy with those worlds that gets so deep they can sense what’s out of place, even before they can explain it.</p>
 
 <p>What has always fascinated me isn't that modders fix games, but that they keep coming back to them.</p>
 
@@ -46,6 +46,6 @@ from the perspective of those whose careers become increasingly fragmented, its 
 <p>And perhaps that is the point we've forgotten outside those spaces. Skills once endured partly as a by-product of necessity, because people and institutions had little choice but to preserve them. While that necessity has not entirely disappeared, it started to increasingly compete with another. As complex production becomes more expensive, the pressure to optimize grows with it. This is not entirely unreasonable. 
 When investors commit hundreds of millions to a project, they expect costs to be controlled and returns to be plausible. Yet the larger the investment, the less tolerance there may be for the very things creative maturation often requires: time, experimentation, failure, and work whose value cannot always be predicted in advance.</p> 
 
-<p>The danger is that, in trying to make increasingly expensive forms of production economically sustainable, we may begin to sacrifice the continuity on which their craft depends</p> 
+<p>The danger is real. Trying to make these expensive forms of production economically sustainable seriously risks undermining the continuity on which their craft depends. </p> 
 
 <p>Nonetheless, we should be careful not to mistake this for progress alone. A civilization that excels at producing but forgets how to preserve may discover, too late, that memory was never the enemy of innovation but its precondition. Every world, digital or otherwise, remains unfinished because each generation inherits not only problems to solve, but knowledge to preserve. Worlds are rarely defined only by the brilliance of their architects, but also by the devotion of their keepers.</p> 
