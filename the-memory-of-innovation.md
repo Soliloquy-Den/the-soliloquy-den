@@ -25,7 +25,7 @@ Remaining in one place, or simply allowing something time to mature increasingly
 At some point, development must justify its cost, and a game must become a finished product even when the world behind it does not feel entirely finished. A lone modder faces no equivalent deadline: returning to the same world for years, they can sometimes achieve a degree of consistency that vast teams struggle to reproduce under the pressure to deliver.</p>
 
 <p>Yet the products themselves are only part of the story; another transformation has quietly reshaped the industry. As development costs have climbed into the hundreds of millions, studios are increasingly replacing permanent teams with networks of independent contractors and outsourced specialists.
-Flexibility has become the new virtue, yet something less measurable seems to vanish with it: lineage.</p>
+Flexibility has become the new virtue, but what about lineage?</p>
 
 <p>Similar labour models are emerging across the gaming and technology industries, from game development to AI training. The pattern has become so widespread that it begins to look less like an industrial adjustment than a new philosophy of work.</p>
 
@@ -48,4 +48,4 @@ When investors commit hundreds of millions to a project, they expect costs to be
 
 <p>The danger is real. Trying to make these expensive forms of production economically sustainable seriously risks undermining the continuity on which their craft depends. </p> 
 
-<p>Nonetheless, we should be careful not to mistake this for progress alone. A civilization that excels at producing but forgets how to preserve may discover, too late, that memory was never the enemy of innovation but its precondition. Every world, digital or otherwise, remains unfinished because each generation inherits not only problems to solve, but knowledge to preserve. Worlds are rarely defined only by the brilliance of their architects, but also by the devotion of their keepers.</p> 
+<p>Nonetheless, we should not mistake this for progress alone. Our civilization excels at producing but tends to forget how to preserve. We may discover, too late, that memory was never the enemy of innovation but its precondition.</p> 
