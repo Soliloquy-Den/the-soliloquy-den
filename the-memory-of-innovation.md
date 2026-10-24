@@ -27,7 +27,7 @@ At some point, development must justify its cost, and a game must become a finis
 <p>Yet the products themselves are only part of the story; another transformation has quietly reshaped the industry. As development costs have climbed into the hundreds of millions, studios are increasingly replacing permanent teams with networks of independent contractors and outsourced specialists.
 Flexibility has become the new virtue, but what about lineage?</p>
 
-<p>Similar labour models are emerging across the gaming and technology industries, from game development to AI training. The pattern has become so widespread that it begins to look less like an industrial adjustment than a new philosophy of work.</p>
+<p>These emerging labour models are becoming so widespread across game development, software development and AI training that this shift begins to look less like an industrial adjustment than a new philosophy of work.</p>
 
 <p>The consequences extend beyond the labour market. Contractors come and go, and practical knowledge might leave with the people who acquired it. Even highly talented workers can move from project to project without the accumulated memory that turns competence into craftsmanship</p>
 
