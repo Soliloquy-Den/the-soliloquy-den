@@ -24,8 +24,7 @@ Remaining in one place, or simply allowing something time to mature increasingly
 <p>Modern AAA games illustrate this tension. Built by hundreds or even thousands of specialists and with extraordinary technical ambition, they can still leave a curious sense of incompleteness. This doesn’t necessarily reflect a lack of talent or investment. 
 At some point, development must justify its cost, and a game must become a finished product even when the world behind it does not feel entirely finished. A lone modder faces no equivalent deadline: returning to the same world for years, they can sometimes achieve a degree of consistency that vast teams struggle to reproduce under the pressure to deliver.</p>
 
-<p>Yet the products themselves are only part of the story; another transformation has quietly reshaped the industry. As development costs have climbed into the hundreds of millions, studios are increasingly replacing permanent teams with networks of independent contractors and outsourced specialists.
-Flexibility has become the new virtue, but what about lineage?</p>
+<p>As development costs have climbed into the hundreds of millions, another transformation has quietly reshaped the industry. Studios are increasingly replacing permanent teams with networks of independent contractors and outsourced specialists. Flexibility has become the new virtue, but what about lineage?</p>
 
 <p>These emerging labour models are becoming so widespread across game development, software development and AI training that this shift begins to look less like an industrial adjustment than a new philosophy of work.</p>
 
