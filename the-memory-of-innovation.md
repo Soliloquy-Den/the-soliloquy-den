@@ -30,7 +30,7 @@ No one employs them for what they do, their work is free in the most literal sen
 
 <p>A contrast seems to be growing between two very different ways of organizing human ability: one treating expertise as something to acquire, trade, and redeploy; the other treating it as something that belongs to a community. You see that second model most clearly in modding. </p>
 
-<p>Markets have always been remarkably efficient at organizing production, without necessarily excluding the communities that formed within them. A twentieth-century game studio was obviously operating in a market, and the two weren't mutually exclusive organizational principles. But as work becomes increasingly transactional, these may begin to drift apart. </p>
+<p>Markets have long been efficient at organising production, without necessarily excluding the communities that formed within them. A twentieth-century game studio, for instance, operated within a market, yet the two weren't mutually exclusive organisational principles. But as work becomes increasingly transactional, these may begin to drift apart. </p>
 
 <p>It’s important to stress how communities are remarkably good at preserving craft. They don't merely produce things; they preserve the know-how required to produce them again. All becomes part of a shared memory that future contributors inherit, until knowledge gradually ceases to belong to individuals and becomes part of the community itself.  </p>
 
