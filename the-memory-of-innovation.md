@@ -26,7 +26,7 @@ No one employs them for what they do, their work is free in the most literal sen
 
 <p>These emerging labour models are becoming so widespread across game development, software development and AI training that this shift begins to look less like an industrial adjustment than a new philosophy of work.</p>
 
-<p>The consequences extend beyond the labour market. Contractors come and go, and practical knowledge might leave with the people who acquired it. Even highly talented workers can move from project to project without the accumulated memory that turns competence into craftsmanship. </p>
+<p>Since contractors come and go, practical knowledge might leave with the people who acquired it. Even highly talented workers can move from project to project without the accumulated memory that turns competence into craftsmanship. What becomes harder to preserve is not expertise itself, but the knowledge that develops between people over time. </p>
 
 <p>A contrast seems to be growing between two very different ways of organising human ability: one treating expertise as something to acquire, trade, and redeploy; the other treating it as something that belongs to a community. You see that second model most clearly in modding. </p>
 
